@@ -1,4 +1,4 @@
-# TAS Smart City — suíte automatizada de testes de API
+# TAS ResolverAí — suíte automatizada de testes de API
 
 Solução de automação de testes (**TAS**) da squad **ResolveAí** para a API do
 **Smart City (renomeamos o projeto do 4º período para ResolveAí)**, disciplina Testes Automatizados (ADS033) · 2026.2 ·

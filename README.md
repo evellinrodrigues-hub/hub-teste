@@ -163,7 +163,7 @@ tas-smart-city/
 
 ---
 
-## 6. Estado do contrato — leia antes de confiar num valor esperado
+## 6. Estado do contrato
 
 O README do Smart-City documenta **endpoints, métodos e regras de autorização
 por perfil**. Não documenta **payloads, códigos de erro, enum de status nem

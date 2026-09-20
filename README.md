@@ -6,7 +6,7 @@ CESAR School.
 
 ---
 
-## 1. O que este repositório é — e o que ele não é
+## 1. O que este repositório é / e o que ele não é
 
 | É | Não é |
 | :--- | :--- |
